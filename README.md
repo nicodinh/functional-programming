@@ -24,3 +24,4 @@ To get a normal voice:
 - Command minus to reduce the speed to 0.67%
 - True voice activated :)
 ```
+[](professor-frisby)
